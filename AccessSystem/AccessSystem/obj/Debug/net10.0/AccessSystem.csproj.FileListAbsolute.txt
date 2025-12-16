@@ -1,0 +1,14 @@
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.AssemblyInfo.cs
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\bin\Debug\net10.0\AccessSystem.exe
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\bin\Debug\net10.0\AccessSystem.deps.json
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\bin\Debug\net10.0\AccessSystem.runtimeconfig.json
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\bin\Debug\net10.0\AccessSystem.dll
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\bin\Debug\net10.0\AccessSystem.pdb
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.dll
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\refint\AccessSystem.dll
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.pdb
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\AccessSystem.genruntimeconfig.cache
+C:\Users\maver\Desktop\oop\AccessSystem\AccessSystem\obj\Debug\net10.0\ref\AccessSystem.dll
