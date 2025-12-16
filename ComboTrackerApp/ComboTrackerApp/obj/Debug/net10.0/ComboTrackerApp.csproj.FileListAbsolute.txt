@@ -1,0 +1,14 @@
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\bin\Debug\net10.0\ComboTrackerApp.exe
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\bin\Debug\net10.0\ComboTrackerApp.deps.json
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\bin\Debug\net10.0\ComboTrackerApp.runtimeconfig.json
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\bin\Debug\net10.0\ComboTrackerApp.dll
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\bin\Debug\net10.0\ComboTrackerApp.pdb
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.AssemblyInfo.cs
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.dll
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\refint\ComboTrackerApp.dll
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.pdb
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ComboTrackerApp.genruntimeconfig.cache
+C:\Users\maver\Desktop\oop\ComboTrackerApp\ComboTrackerApp\obj\Debug\net10.0\ref\ComboTrackerApp.dll
