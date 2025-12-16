@@ -1,0 +1,14 @@
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\bin\Debug\net10.0\PaymentSystem.exe
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\bin\Debug\net10.0\PaymentSystem.deps.json
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\bin\Debug\net10.0\PaymentSystem.runtimeconfig.json
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\bin\Debug\net10.0\PaymentSystem.dll
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\bin\Debug\net10.0\PaymentSystem.pdb
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.AssemblyInfo.cs
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.dll
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\refint\PaymentSystem.dll
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.pdb
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\PaymentSystem.genruntimeconfig.cache
+C:\Users\maver\Desktop\oop\PaymentSystem\PaymentSystem\obj\Debug\net10.0\ref\PaymentSystem.dll
