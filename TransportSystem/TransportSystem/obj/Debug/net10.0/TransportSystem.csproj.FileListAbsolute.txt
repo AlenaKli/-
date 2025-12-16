@@ -1,0 +1,14 @@
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\bin\Debug\net10.0\TransportSystem.exe
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\bin\Debug\net10.0\TransportSystem.deps.json
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\bin\Debug\net10.0\TransportSystem.runtimeconfig.json
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\bin\Debug\net10.0\TransportSystem.dll
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\bin\Debug\net10.0\TransportSystem.pdb
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.AssemblyInfo.cs
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.dll
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\refint\TransportSystem.dll
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.pdb
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\TransportSystem.genruntimeconfig.cache
+C:\Users\maver\Desktop\oop\TransportSystem\TransportSystem\obj\Debug\net10.0\ref\TransportSystem.dll
