@@ -1,0 +1,14 @@
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\bin\Debug\net10.0\ComputerTask.exe
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\bin\Debug\net10.0\ComputerTask.deps.json
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\bin\Debug\net10.0\ComputerTask.runtimeconfig.json
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\bin\Debug\net10.0\ComputerTask.dll
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\bin\Debug\net10.0\ComputerTask.pdb
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.AssemblyInfo.cs
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.dll
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\refint\ComputerTask.dll
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.pdb
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ComputerTask.genruntimeconfig.cache
+C:\Users\maver\Desktop\oop\ComputerTask\ComputerTask\obj\Debug\net10.0\ref\ComputerTask.dll
