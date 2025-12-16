@@ -1,0 +1,14 @@
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\bin\Debug\net10.0\SimpleAtlas.exe
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\bin\Debug\net10.0\SimpleAtlas.deps.json
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\bin\Debug\net10.0\SimpleAtlas.runtimeconfig.json
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\bin\Debug\net10.0\SimpleAtlas.dll
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\bin\Debug\net10.0\SimpleAtlas.pdb
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.AssemblyInfoInputs.cache
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.AssemblyInfo.cs
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.csproj.CoreCompileInputs.cache
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.dll
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\refint\SimpleAtlas.dll
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.pdb
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\SimpleAtlas.genruntimeconfig.cache
+C:\Users\maver\Desktop\oop\GameAtlas\GameAtlas\obj\Debug\net10.0\ref\SimpleAtlas.dll
