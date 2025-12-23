@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="UniversitySchedule/UniversitySchedule.csproj" />
+  <Project Path="UniversityScheduleTests/UniversitySchedule.Tests.csproj" />
+</Solution>
